@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan 29 14:38:53 2024
-
-@author: jvilp
-"""
-
-
 # error handling so as not to stop the code with large simulation
 import warnings
 warnings.filterwarnings('error', category=RuntimeWarning)
