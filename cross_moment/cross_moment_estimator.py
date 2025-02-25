@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan 22 14:06:52 2024
-
-@author: jvilp
-"""
 
 # =============================================================================
 # Estimator or cross moment part 5 eq 12 with it's correction in delta and bias
