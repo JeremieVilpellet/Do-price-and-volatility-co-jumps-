@@ -50,12 +50,3 @@ nb_year_var_cov = 20 # histo of 20 year of SP future
 
 eta_opti, matrix_simul_CM = main_param_estimation(sto_iter_identity_param, sto_iter_opti_param, nb_simul_var_cov, nb_year_var_cov, lst_CM_matrix_estimator)
 
-
-#%% Fait stylisé sur les données
-
-import observation_data
-
-#%% Pricing Kernel
-
-import pricing_kernel
-
