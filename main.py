@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jan 23 21:13:25 2024
-
-@author: jvilp
-"""
-
-
-#%% Import
 import numpy as np
 
 from Data import FinancialDataHandler
